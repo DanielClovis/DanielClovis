@@ -1,9 +1,9 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:6E40C9,100:00B4D8&text=Daniel%20Clovis&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Desenvolvimento%20Web%20%E2%80%A2%20Android%20%E2%80%A2%20Dados&descAlignY=58&descSize=17" alt="Banner Daniel Clovis" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:6E40C9,100:00B4D8&text=Daniel%20Clovis&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Front-end%20%E2%80%A2%20Android%20%E2%80%A2%20Java%20em%20aprendizado&descAlignY=58&descSize=17" alt="Banner Daniel Clovis" />
 
   <p>
-    Desenvolvedor em formação, transformando aprendizado em projetos funcionais,
-    interfaces bem cuidadas e soluções orientadas a dados.
+    Desenvolvedor em formação com base em front-end, prática em projetos Android
+    e foco atual no aprendizado de Java.
   </p>
 
   <a href="https://www.linkedin.com/in/daniel-clovis-9b8107376/">
@@ -19,21 +19,59 @@
 
 ## Sobre mim
 
-Estou construindo minha trajetória em desenvolvimento de software por meio de projetos práticos. Meu foco principal está em criar experiências web responsivas com **HTML, CSS, JavaScript e React**, enquanto amplio meus conhecimentos em **Android com Kotlin e Jetpack Compose** e em **modelagem de dados**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e participante do **Instituto PROA**. Já desenvolvi projetos usando **HTML, CSS, JavaScript e React**, trabalhando com interfaces responsivas, componentização e consumo de APIs.
 
-- Desenvolvimento de interfaces web responsivas e componentizadas
-- Consumo de APIs e manipulação de dados com JavaScript
-- Aplicações Android modernas com Material 3
-- Organização, higienização e modelagem de dados
-- Git e GitHub para versionamento e evolução contínua dos projetos
+Também construí experiências com **Kotlin e Jetpack Compose** no desenvolvimento Android e projetos de organização e modelagem de dados. No momento, concentro meus estudos em **Java** para ampliar minha base de desenvolvimento de software.
+
+- ✅ Base já desenvolvida: HTML, CSS, JavaScript e React
+- ☕ Aprendendo agora: Java
+- 📱 Projetos mobile com Kotlin e Jetpack Compose
+- 🗃️ Experiência prática com MongoDB, JSON e tratamento de dados
+- 🤝 Vivência em projeto colaborativo no Instituto PROA
 
 ## Tecnologias
 
+<p align="center"><strong>Uso nos meus projetos</strong></p>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,kotlin,androidstudio,mongodb,git,github,vscode&perline=11" alt="Tecnologias e ferramentas" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,kotlin,androidstudio,mongodb,git,github,vscode&perline=11" alt="Tecnologias e ferramentas que utilizo" />
 </div>
 
-## Projetos selecionados
+<p align="center"><strong>Estudando atualmente</strong></p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-em%20aprendizado-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java em aprendizado" />
+</div>
+
+## Projeto em destaque — Instituto PROA
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3>🍼 Laço de Leite — Demo Day</h3>
+      <p><strong>Projeto colaborativo desenvolvido no Instituto PROA.</strong></p>
+      <p>Participei do desenvolvimento de um ecossistema digital voltado à conexão entre mães, doadoras e bancos de leite. A solução reúne um aplicativo principal, um painel hospitalar e um aplicativo logístico para motoristas.</p>
+      <p>O projeto contempla acessibilidade, triagem, acompanhamento de solicitações, gestão de estoque, cadeia fria e rotas de coleta e entrega.</p>
+      <p><strong>Kotlin • Jetpack Compose • Material 3 • HTML • CSS • JavaScript</strong></p>
+      <p>
+        <a href="https://github.com/Laco-de-Leite-DemoDay">
+          <img src="https://img.shields.io/badge/Organiza%C3%A7%C3%A3o-6E40C9?style=flat-square&logo=github&logoColor=white" alt="Organização Laço de Leite" />
+        </a>
+        <a href="https://github.com/Laco-de-Leite-DemoDay/Projeto-La-o-de-Leite">
+          <img src="https://img.shields.io/badge/App%20principal-00A86B?style=flat-square&logo=android&logoColor=white" alt="Aplicativo principal" />
+        </a>
+        <a href="https://github.com/Laco-de-Leite-DemoDay/Dashboard-do-Hospital">
+          <img src="https://img.shields.io/badge/Painel%20hospitalar-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Painel hospitalar" />
+        </a>
+        <a href="https://github.com/Laco-de-Leite-DemoDay/App-do-Motorista">
+          <img src="https://img.shields.io/badge/App%20do%20motorista-EA4335?style=flat-square&logo=android&logoColor=white" alt="Aplicativo do motorista" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+## Outros projetos selecionados
 
 <table>
   <tr>
@@ -66,9 +104,9 @@ Estou construindo minha trajetória em desenvolvimento de software por meio de p
   </tr>
 </table>
 
-## Em evolução
+## Momento atual
 
-Atualmente estou aprofundando conhecimentos em **React**, arquitetura de componentes, **JavaScript moderno**, desenvolvimento Android e bancos de dados. Cada repositório registra uma etapa dessa evolução, do fundamento à construção de projetos mais completos.
+Meu foco de estudo agora é **Java**. Estou fortalecendo os fundamentos da linguagem e transformando cada etapa do aprendizado em prática, com o objetivo de publicar projetos cada vez mais completos no GitHub.
 
 <details>
   <summary><strong>Ver estatísticas do GitHub</strong></summary>
